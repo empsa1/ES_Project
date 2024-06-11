@@ -114,3 +114,29 @@ O Manifesto Ágil define quatro valores principais que guiam os métodos ágeis:
 ### Conclusão
 
 O Scrum é uma abordagem ágil que enfatiza a entrega rápida e contínua de valor ao cliente, adaptando-se rapidamente a mudanças e promovendo a colaboração e responsabilidade dentro da equipe. Embora tenha algumas desvantagens, como a dificuldade de implementação em grandes organizações e a necessidade de comprometimento total, suas vantagens fazem dele uma escolha popular em ambientes dinâmicos e inovadores. Através de papéis claramente definidos, cerimônias regulares e artefatos específicos, o Scrum estrutura o processo de desenvolvimento de software de uma maneira que promove eficiência, comunicação e melhoria contínua.
+
+
+Exemplos de Métodos Ágeis
+Existem vários métodos ágeis que podem ser usados no desenvolvimento de software. Aqui estão alguns dos mais comuns:
+
+1. Scrum
+Descrição: Um framework ágil que se concentra na entrega iterativa e incremental de produtos. O trabalho é dividido em sprints, que são ciclos de desenvolvimento curtos e fixos, tipicamente de 2 a 4 semanas.
+Componentes Principais:
+Papéis: Product Owner, ScrumMaster, Equipe.
+Cerimônias: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective.
+Artefatos: Product Backlog, Sprint Backlog, Burndown Charts.
+Vantagens: Flexibilidade, entrega rápida, feedback contínuo.
+Desvantagens: Pode ser difícil de implementar em grandes organizações, requer comprometimento total da equipe.
+2. Extreme Programming (XP)
+Descrição: Um método ágil que enfatiza a melhoria contínua e a qualidade do software. Foca em práticas de engenharia rigorosas como programação em par, desenvolvimento guiado por testes (TDD) e integração contínua.
+Práticas Principais:
+Programação em Par (Pair Programming).
+Desenvolvimento Guiado por Testes (Test-Driven Development - TDD).
+Integração Contínua.
+Refatoração constante do código.
+Vantagens: Alta qualidade de código, feedback rápido, melhoria contínua.
+Desvantagens: Pode ser intensivo para os desenvolvedores, requer um alto nível de disciplina.
+
+Aplicações Práticas
+Scrum: Amplamente usado em projetos de desenvolvimento de software onde há necessidade de entrega contínua e adaptação rápida às mudanças. Ideal para startups e equipes ágeis.
+XP: Utilizado em ambientes onde a qualidade do código é crítica, como em empresas de software que lançam produtos frequentemente.
